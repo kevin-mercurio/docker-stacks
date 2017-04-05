@@ -1,6 +1,7 @@
 # Copyright (c) Jupyter Development Team.
 # Distributed under the terms of the Modified BSD License.
 FROM jupyter/pyspark-notebook
+#FROM jupyter/pyspark-notebook
 
 MAINTAINER Jupyter Project <jupyter@googlegroups.com>
 
